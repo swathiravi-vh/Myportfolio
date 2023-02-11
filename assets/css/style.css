@@ -261,7 +261,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   padding-bottom: 4px;
   letter-spacing: 1px;
-  border-bottom: 3px solid #050505;
+  border-bottom: 3px solid #149ddd;
 }
 
 @media (min-width: 1024px) {
@@ -291,7 +291,7 @@ section {
 }
 
 .section-bg {
-  background: #f5f8fd;
+  background: #edf4ff;
 }
 
 .section-title {
@@ -401,7 +401,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# skills
+# Skills
 --------------------------------------------------------------*/
 .skills .progress {
   height: 50px;
